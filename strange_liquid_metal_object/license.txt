@@ -1,0 +1,8 @@
+Model Information:
+* title:	Strange liquid metal object
+* source:	https://sketchfab.com/3d-models/strange-liquid-metal-object-2b5b26d350754abb9b2701a80a384b26
+* author:	endike (https://sketchfab.com/endike)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
